@@ -4,7 +4,7 @@
 
 * `-u, --username`: liugr10
 * `-p, --password`: dd.520ee.vip
-* `-a, --app-id`: 仅爬取指定`appid`
+* `-a, --app-id`:774171
 * `-l, --list-apps`: 是否仅打印app信息
 * `-s, --sentry-path, --ssfn`: `ssfn`文件路径
 * `-k, --login-key`: 登录密钥
